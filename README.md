@@ -14,12 +14,12 @@ Dicho de otra forma, dada la clave k1 k2...k introducida por el usuario, la prim
 
 #### En la práctica se pidió realizar la siguiente modificación:
 
-Separar en grupos cada caracter del texto que fuese cifrado por el mismo caracter de k, es decir, un grupo para todos aquellos caracteres cifrado con k1, otro para los de k2 y así hasta kn.
+Separar en grupos cada caracter del texto que fuese cifrado por el mismo caracter de k, es decir, un grupo para todos aquellos caracteres cifrados con k1, otro para los de k2 y así hasta kn.
 
 #### Para ejecutar: _ruby main.rb_
 
 Al ejecutar, se ejecutará la práctica con la modificación incluida.
-El fichero 'pruebamod.rb' contiene las pruebas para realizar la modificación y los cálculos que se necesitaron para ello.
+El fichero 'pruebamod.rb' contiene las pruebas que se hicieron para llegar a realizar la modificación y los cálculos que se necesitaron para ello.
 
 ### Enlaces:
 
